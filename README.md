@@ -5,8 +5,6 @@
 This app is for those people that just want a coding text editor on hand, without having to download VS Code or any coding editor or carrying your laptop around. However you can still download this text editor is you wanted! While building this project I learned a lot about webpack and it's uses, please enjoy it as much as I did building it. :)
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
