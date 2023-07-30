@@ -24,7 +24,7 @@ To use this app, just go to the deployed link below and start typing! Don't worr
 
 ## Credits
 
-Credits to m=tuto Abiel, for being my rubber duck and thanks to me! 
+Credits to my tutor Abiel, for being my rubber duck and thanks to me! 
 
 ## License
 
